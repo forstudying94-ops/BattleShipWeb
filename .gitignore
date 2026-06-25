@@ -1,0 +1,16 @@
+# IDE
+.idea/
+*.sln.DotSettings.user
+
+# .NET
+**/bin/
+**/obj/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# misc
+.DS_Store
+*.log
